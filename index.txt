@@ -239,6 +239,7 @@ Chelsea
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-linkedin"></ion-icon>
 <ion-icon name="logo-skype"></ion-icon>
+<ion-icon name="logo-jumia"></ion-icon>
 <ion-icon name="mail-outline"></ion-icon>
 
 
